@@ -6,6 +6,8 @@ text = 'hello world'
 def mult(x,y):
     return x*y
 
+def squred(x):
+    return x**2
 
 def say_hello():
     return 'hello world'
